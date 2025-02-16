@@ -53,3 +53,10 @@ div.recipe
     font-size: 20px;
 } 
 
+li p
+{
+   margin: 1px;
+   padding: 1px;
+}
+
+
